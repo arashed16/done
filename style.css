@@ -1,0 +1,200 @@
+
+.container{
+    
+    width: 1120px;
+    margin-bottom:50px;
+}
+
+.logo-item{
+    margin-right: 200px;
+}
+
+.logo{
+    width: 198px;
+    height: 59px;
+}
+
+.list-item{
+    margin-right: 50px;
+}
+
+.success-button{
+    border-radius: 30px;
+    height: 43px;
+    width: 104px;
+}
+
+.main-div{
+  padding-left: 155px;
+}
+.main-image{
+    width:414px;
+    height:300px;
+}
+.heading{
+    font-weight: bold;
+}
+.heading1{
+    color:#21B573 ;
+
+}
+.p-heading{
+    color: #FD511A;
+}
+
+.get-button{
+    border-radius: 30px;
+    height: 43px;
+    width: 107px;
+
+}
+.categories{
+    
+}
+
+.body-part{
+    margin-bottom: 100px;
+}
+
+.cat1, .cat2, .cat3,.cat4{
+   padding:5px 98px;
+}
+
+.cat4{padding-left: 74px;}
+
+}
+.hed1, .hed2, .hed3 ,.hed4{
+    
+}
+
+.write{
+   
+    width: 131px;
+    height: 36px;
+    
+  
+
+}
+.cat1{
+    padding-right: 100px;
+}
+
+.third-pard{
+    padding:10px 68px ;
+}
+.img1,.img2,.img3,.img4{
+    padding-left: 18px;
+    height: 85px;
+    width: 91px;
+    
+
+}
+.card-section{
+    margin-top:75px;
+    width: 1048px;
+    margin-left: 166px;
+}
+
+.card-section h1{
+    text-align: center;
+}
+
+.card-section-inner{
+    margin-top: 50px;
+}
+
+.card-body{
+    margin-top:75px;
+}
+.mini-image{
+    height: 24px;
+    width:24px;
+}
+.mini-image2{
+    height: 24px;
+    width:24px;
+    
+}
+.mini3{
+    padding-left: 70px;
+}
+.card{
+   border: none;
+}
+
+.card-footer{border: none;}
+
+.testomonial{
+    padding-left: 448px;
+    margin-top: 50px;
+    width: 1200px;
+    float: left;
+    margin-bottom: 50px;
+}
+
+.man-photo{
+    height: 100px;
+    width: 100px;
+    
+}
+
+.lorem-footer{
+    color: #f2f1f2;
+}
+
+.testomonial h1{
+    padding-left: 102px;
+    font-weight: bold;
+    padding-bottom: 50px;
+}
+
+.last-part{
+    
+    
+    padding-left: 200px;
+    margin-top: 50px;
+    width:1200px ;
+     height: 369px;
+
+}
+
+.lorem-part{
+    color: #f2f1f2;
+}
+.word h1,.word ul li,.word p{
+    color: #f2f1f2;
+    text-align: center;
+    
+}
+.word h1{
+    
+}
+
+.word{
+    padding-top: 20px;
+}
+
+.word ul li{
+    
+    list-style: none;
+    line-height:20px;
+}
+footer{
+    text-align: center;
+    color: #f2f1f2;
+    background-color: #282531; 
+   
+}
+    
+.last-item {
+  
+    background-color: #282531;
+    
+}
+
+.bg-color{
+    
+  
+    width:1015px ;
+    
+}
